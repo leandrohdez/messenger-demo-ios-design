@@ -1,4 +1,4 @@
-# 😁 Messgenger (demo)
+# 😁 Messenger (demo)
 ...
 
 > **Disclaimer:** This implementation is just for educational purposes and for my own programming practice.
